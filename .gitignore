@@ -15,3 +15,6 @@
 /log/*
 !/log/.keep
 /tmp
+
+# let me use the console
+spring-1000/
